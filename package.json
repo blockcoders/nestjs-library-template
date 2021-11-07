@@ -39,11 +39,11 @@
   "bugs": "https://github.com/bzuker/nestjs-library-template",
   "peerDependencies": {
     "@nestjs/common": "^8.0.0",
-    "rxjs": "^6.x"
+    "rxjs": "^7.x"
   },
   "dependencies": {
     "@golevelup/nestjs-modules": "^0.4.3",
-    "rxjs": "^6.x"
+    "rxjs": "^7.x"
   },
   "devDependencies": {
     "@nestjs/common": "^8.1.2",
