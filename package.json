@@ -1,6 +1,6 @@
 {
   "name": "nestjs-library-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NestJS library template",
   "author": "Brian Zuker <brianzuker@gmail.com>",
   "license": "MIT",
