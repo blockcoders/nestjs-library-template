@@ -1,1 +1,1 @@
-export { AwesomeLibraryModule } from './awesome-library.module'
+export { AwesomeLibraryModule } from './awesome-library.module';

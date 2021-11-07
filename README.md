@@ -26,7 +26,10 @@ npm install
 
 # Publishing
 
-In order to publish to NPM, follow this guide: https://dev.to/nestjs/publishing-nestjs-packages-with-npm-21fm
+In order to publish to NPM, create a user in npmjs.com. Follow [this guide](https://dev.to/nestjs/publishing-nestjs-packages-with-npm-21fm) for a more detailed explanation.
+
+This repo includes a Github Action that will publish the package to npm on each push to `main`, where the version in the package.json has changed. In order for this to work you need to add your NPM_TOKEN to the repository secrets
+More information [here](https://github.com/marketplace/actions/npm-publish).
 
 ## Change Log
 
@@ -38,7 +41,7 @@ Contributions welcome! See [Contributing](CONTRIBUTING.md).
 
 ## Author
 
-\*\*Brian Zuker (brianzuker@gmail.com)
+Brian Zuker (https://twitter.com/Brian_Zuker))
 
 ## License
 

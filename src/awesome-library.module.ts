@@ -2,6 +2,6 @@ import { Module } from '@nestjs/common';
 import { AwesomeLibraryService } from './awesome-library.service';
 
 @Module({
-  providers: [AwesomeLibraryService]
+  providers: [AwesomeLibraryService],
 })
 export class AwesomeLibraryModule {}
